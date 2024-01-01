@@ -14,8 +14,69 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "700511544fec4dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CR Father Brain Resonance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "104c04daecff42a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CR Father Brain Resonance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1000b5206884962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Key _.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc9c666f44e33de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WST _ Warsprite Therian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbfa204309d1fa7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ELF _ ELF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -44,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:chrononic_echo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ELF _ ELF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ELF _ ELF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ELF _ ELF.md"
+              }
             }
           }
         ]
@@ -138,8 +203,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58076d214d5794b8",
+  "active": "fbfa204309d1fa7d",
   "lastOpenFiles": [
+    "CR Father Brain Resonance.md",
+    "CR _ Chrononic Resonance.md",
+    "WST nonyma.md",
+    "LIR _ Liranev Lexicon.md",
+    "_ Key _.md",
+    "WST instar.md",
+    "WST _ Warsprite Therian.md",
+    "ELF _ ELF.md",
     "codex"
   ]
 }
